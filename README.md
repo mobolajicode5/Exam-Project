@@ -20,7 +20,7 @@ This project is a prototype web application that showcases our cloud engineering
 - HTML Landing Page with Personal Bio & Project Pitch
 
 ## Screenshot
-![Screenshot](C:\Users\sulex\OneDrive\Desktop\this is me\project.png)
+![Screenshot](image.jpg)
 
 ## How It Was Built
 1. *Provisioned* Ubuntu EC2 instance via AWS
